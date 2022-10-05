@@ -1,3 +1,3 @@
 # weather_report
  
-https://github.com/DHrvoje/wheater_report.git
+https://github.com/DHrvoje/weather_report.git
