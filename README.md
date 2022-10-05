@@ -1,3 +1,3 @@
-# wheater_report
+# weather_report
  
 https://github.com/DHrvoje/wheater_report.git
